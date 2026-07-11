@@ -1,9 +1,5 @@
 # Contrôleur de domaine Active Directory - Windows Server 2022
 
-Projet personnel que j'ai réalisé pour m'entraîner sur les systèmes et réseaux, dans le cadre de ma préparation au Titre Pro TSSR.
-
-L'idée était de monter un petit environnement d'entreprise de zéro : un serveur Windows Server, un domaine Active Directory, des utilisateurs, des groupes et quelques règles de sécurité. Le tout dans des machines virtuelles sur mon PC.
-
 ## Le contexte
 
 J'ai imaginé une petite entreprise fictive de 16 personnes réparties en 4 services (direction, comptabilité, informatique, commercial). L'objectif : mettre en place l'infrastructure qui permet de gérer tous ces comptes de façon centralisée, comme dans une vraie boîte.
