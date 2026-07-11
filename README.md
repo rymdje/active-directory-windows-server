@@ -17,26 +17,16 @@ Domaine : `rym.local`
 - 1 serveur : SRV-AD01, en IP fixe (192.168.10.10)
 
 ## Comment c'est organisé
-rym.local
-└── Datalex
 
-├── Direction (2 utilisateurs)
+Le domaine rym.local contient une unité principale "Datalex", elle-même découpée en 4 services :
 
-├── Comptabilité (4 utilisateurs)
+- Direction : 2 utilisateurs
+- Comptabilité : 4 utilisateurs
+- Informatique : 3 utilisateurs
+- Commercial : 7 utilisateurs
 
-├── Informatique (3 utilisateurs)
+Un dossier "Groupes" contient les 4 groupes de sécurité : GS_Direction, GS_Comptabilité, GS_Informatique et GS_Commercial.
 
-├── Commercial (7 utilisateurs)
-
-└── Groupes
-
-├── GS_Direction
-
-├── GS_Comptabilité
-
-├── GS_Informatique
-
-└── GS_Commercial
 Les groupes servent à gérer les droits par service plutôt que personne par personne.
 
 ## Les étapes
