@@ -19,14 +19,23 @@ Domaine : `rym.local`
 ## Comment c'est organisé
 rym.local
 └── Datalex
+
 ├── Direction (2 utilisateurs)
+
 ├── Comptabilité (4 utilisateurs)
+
 ├── Informatique (3 utilisateurs)
+
 ├── Commercial (7 utilisateurs)
+
 └── Groupes
+
 ├── GS_Direction
+
 ├── GS_Comptabilité
+
 ├── GS_Informatique
+
 └── GS_Commercial
 Les groupes servent à gérer les droits par service plutôt que personne par personne.
 
