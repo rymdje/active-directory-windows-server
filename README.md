@@ -1,10 +1,9 @@
 # Contrôleur de domaine Active Directory - Windows Server 2022
 
-## Le contexte
+# Active Directory - Windows Server
 
-J'ai imaginé une petite entreprise fictive de 16 personnes réparties en 4 services (direction, comptabilité, informatique, commercial). L'objectif : mettre en place l'infrastructure qui permet de gérer tous ces comptes de façon centralisée, comme dans une vraie boîte.
-
-Domaine : `rym.local`
+Projet perso pour m'entraîner à monter et gérer une infrastructure Windows d'entreprise.
+L'idée : déployer un contrôleur de domaine Active Directory de A à Z, avec une entreprise fictive (Datalex), ses services, ses utilisateurs et ses règles de sécurité. Le tout fait à la main, pour bien comprendre comment ça fonctionne.
 
 ## Ce que j'ai utilisé
 
